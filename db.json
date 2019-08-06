@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Buy pc gg",
-      "attention": false,
-      "tech": "Jon Doe3",
-      "date": "2019-08-06T02:48:21.022Z"
+      "message": "fix iphone",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-08-06T03:29:22.458Z",
+      "id": 1
     },
     {
       "id": 2,
-      "message": "fix RAM on workstation 7",
+      "message": "play tests",
       "attention": false,
-      "tech": "Jon Doe",
-      "date": "2019-08-06T02:48:18.064Z"
-    },
-    {
-      "id": 3,
-      "message": "fix RAM on workstation 88",
-      "attention": false,
-      "tech": "Jon Doe2",
-      "date": "2019-08-06T02:20:15.272Z"
+      "tech": "Max Smith",
+      "date": "2019-08-06T03:29:38.874Z"
     }
   ],
   "techs": [
