@@ -10,7 +10,6 @@ const AddLogModal = ({ addLog }) => {
 	const [tech, setTech] = useState('')
 
 	const onSubmit = (e) => {
-		e.preventDefault()
 		if (message === '' || tech === '') {
 			M.toast({ html: 'Please enter a message and tech' })
 		} else {
@@ -46,7 +45,7 @@ const AddLogModal = ({ addLog }) => {
 							<option value="Jon Doe3">Jon Doe3</option>
 						</select>
 						<label htmlFor="message" className='active'>
-							Log message
+							Technition
 						</label>
 					</div>
 				</div>
