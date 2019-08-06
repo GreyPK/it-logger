@@ -10,9 +10,16 @@
     {
       "id": 2,
       "message": "play tests",
+      "attention": true,
+      "tech": "Ivan Petrov",
+      "date": "2019-08-06T04:00:57.862Z"
+    },
+    {
+      "id": 3,
+      "message": "vdv",
       "attention": false,
-      "tech": "Max Smith",
-      "date": "2019-08-06T03:29:38.874Z"
+      "tech": "Ivan Petrov",
+      "date": "2019-08-06T03:59:19.958Z"
     }
   ],
   "techs": [
