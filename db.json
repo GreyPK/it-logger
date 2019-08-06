@@ -1,34 +1,35 @@
 {
-	"logs": [{
-		"id": 1,
-		"message": "Changed hard drive on workstation 005",
-		"attention": false,
-		"date": "03.08.2019",
-		"tech": "Ivan Petrov"
-	}, {
-		"id": 2,
-		"message": "Workstation 003 not bootable",
-		"attention": true,
-		"date": "04.08.2019",
-		"tech": "John Doe"
-	}, {
-		"id": 3,
-		"message": "Changed memory on workstation 007",
-		"attention": false,
-		"date": "04.08.2019",
-		"tech": "Max Smith"
-	}],
-	"techs": [{
-		"id": 1,
-		"firstName": "John",
-		"lastName": "Doe"
-	}, {
-		"id": 2,
-		"firstName": "Ivan",
-		"lastName": "Petrov"
-	}, {
-		"id": 3,
-		"firstName": "Max",
-		"lastName": "Smith"
-	}]
+  "logs": [
+    {
+      "message": "Buy pc",
+      "attention": false,
+      "tech": "Jon Doe3",
+      "date": "2019-08-06T00:41:55.241Z",
+      "id": 1
+    },
+    {
+      "message": "fix RAM on workstation 7",
+      "attention": true,
+      "tech": "Jon Doe",
+      "date": "2019-08-06T00:42:16.089Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Ivan",
+      "lastName": "Petrov"
+    },
+    {
+      "id": 3,
+      "firstName": "Max",
+      "lastName": "Smith"
+    }
+  ]
 }
